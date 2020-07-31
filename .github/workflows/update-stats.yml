@@ -3,7 +3,7 @@ name: Readme
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '04 20 * * *'
+    - cron: '08 20 * * *'
 
 jobs:
   update-readme:
