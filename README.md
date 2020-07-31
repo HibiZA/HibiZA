@@ -10,7 +10,7 @@
 
 ```javascript
 const hibiZA = {
-    code: ["Java","Python", "Javascript", "Typescript"],
+    code: ["Java","Python", "Dart", "Javascript", "Typescript"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         mobileApp: ["Flutter", "NativeScript"],
