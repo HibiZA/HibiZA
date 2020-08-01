@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/HibiZA?style=social)
 ![Readme](https://github.com/HibiZA/HibiZA/workflows/Readme/badge.svg)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="50"> More about me...  
 
 ```javascript
 const hibiZA = {
