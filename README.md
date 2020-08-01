@@ -3,7 +3,7 @@
 <p><em>Software Developer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Dylan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dylan-fuhri-02b85372/)](https://www.linkedin.com/in/dylan-fuhri-02b85372/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Dylan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dylan-fuhri/)](https://www.linkedin.com/in/dylan-fuhri/)
 ![GitHub followers](https://img.shields.io/github/followers/HibiZA?style=social)
 ![Readme](https://github.com/HibiZA/HibiZA/workflows/Readme/badge.svg)
 
