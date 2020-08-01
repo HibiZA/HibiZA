@@ -31,6 +31,7 @@ const hibiZA = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+📝[Resume](https://drive.google.com/file/d/1RjxKCcvUeoyYgnL_eCwQ9zay77Ayr0Xu/view?usp=sharing)
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-0%20Lines%20of%20code-blue)
 
