@@ -12,7 +12,6 @@
 ```javascript
 const hibiZA = {
     code: ["Java","Python", "Dart", "Javascript", "Typescript"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         mobileApp: ["Flutter", "NativeScript"],
         frontEnd: {
@@ -27,7 +26,7 @@ const hibiZA = {
         databases: ["mongoDB", "MySql", "sqlite"],
         misc: ["Firebase", "selenium" ]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Serverless Architecture", "Mobile App Architecture"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
