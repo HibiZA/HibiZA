@@ -4,6 +4,7 @@ on:
   schedule:
     # Runs at 12am IST
     - cron: '00 21 * * *'
+    - cron: '00 08 * * *'
 
 jobs:
   update-readme:
