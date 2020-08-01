@@ -11,7 +11,7 @@
 
 ```javascript
 const hibiZA = {
-    code: ["Java","Python", "Dart", "Javascript", "Typescript"],
+    code: ["Java", "Python", "Dart", "Javascript", "Typescript"],
     technologies: {
         mobileApp: ["Flutter", "NativeScript"],
         frontEnd: {
