@@ -3,8 +3,9 @@ name: Readme
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '00 21 * * *'
+    - cron: '00 20 * * *'
     - cron: '00 08 * * *'
+    - cron: '00 16 * * *'
 
 jobs:
   update-readme:
