@@ -38,7 +38,7 @@ const hibiZA = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 127 Contributions in year 2020
+> 🏆 127 Contributions in 2020
  > 
 > 📦 Used 136.6 kB in GitHub's Storage 
  > 
@@ -48,7 +48,7 @@ const hibiZA = {
  > 
 > 🔑 7 Owned Private Repositories 
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    25 commits     █████░░░░░░░░░░░░░░░░░░░░   22.12% 
@@ -71,7 +71,7 @@ Sunday       15 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Languages: 
@@ -90,7 +90,7 @@ Mac                      17 mins             ███████████�
 
 ```
 
-**I mostly code in Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
