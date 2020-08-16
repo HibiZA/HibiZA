@@ -32,21 +32,21 @@ const hibiZA = {
 ```
 📝[Resume](https://drive.google.com/file/d/1RjxKCcvUeoyYgnL_eCwQ9zay77Ayr0Xu/view?usp=sharing)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-85585%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85585%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 127 Contributions in 2020
+> 🏆 127 Contributions in the year 2020
  > 
-> 📦 Used 136.6 kB in GitHub's Storage 
+> 📦 136.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 12 Public repositories
  > 
-> 🔑 7 Owned Private Repositories 
+> 🔑 7 Private repositories 
 
 **I'm a Night 🦉** 
 
@@ -57,7 +57,7 @@ const hibiZA = {
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
 
 ```
-📅 **I'm Most Productive on Fridays** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
@@ -71,13 +71,13 @@ Sunday       15 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-💬 Languages: 
+💬 Programming Languages: 
 Dart                     17 mins             █████████████████████████   100.0%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  17 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
@@ -85,7 +85,7 @@ pokemon_app              8 mins              ███████████�
 moviely                  5 mins              ███████░░░░░░░░░░░░░░░░░░   30.8% 
 snake                    3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.35%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Mac                      17 mins             █████████████████████████   100.0%
 
 ```
