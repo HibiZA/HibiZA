@@ -32,21 +32,21 @@ const hibiZA = {
 ```
 📝[Resume](https://drive.google.com/file/d/1RjxKCcvUeoyYgnL_eCwQ9zay77Ayr0Xu/view?usp=sharing)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85585%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85585%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 127 Contributions in the year 2020
+> 🏆 127 Contributions in the Year 2020
  > 
 > 📦 136.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 12 Public repositories
+> 📜 12 Public Repositories
  > 
-> 🔑 7 Private repositories 
+> 🔑 7 Private Repositories 
 
 **I'm a Night 🦉** 
 
@@ -71,13 +71,13 @@ Sunday       15 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
 Dart                     6 mins              █████████████████████████   100.0%
 
-🔥 Code Editors: 
+🔥 Editors: 
 VS Code                  6 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
