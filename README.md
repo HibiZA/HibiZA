@@ -44,9 +44,9 @@ const hibiZA = {
  > 
 > 💼 Opted to Hire
  > 
-> 📜 12 Public Repositories
+> 📜 12 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 7 Private Repositories  
 
 **I'm an Early 🐤** 
 
