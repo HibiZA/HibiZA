@@ -38,13 +38,13 @@ const hibiZA = {
 
 **🐱 My Github Data** 
 
-> 🏆 201 Contributions in the Year 2020
+> 🏆 202 Contributions in the Year 2020
  > 
 > 📦 137.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
