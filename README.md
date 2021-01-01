@@ -38,7 +38,7 @@ const hibiZA = {
 
 **🐱 My Github Data** 
 
-> 🏆 206 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 137.0 kB Used in Github's Storage 
  > 
