@@ -11,12 +11,12 @@
 
 ```javascript
 const hibiZA = {
-    code: ["Java", "Python", "Dart", "Javascript", "Typescript"],
+    code: ["Java", "Python", "Dart", "Javascript", "Typescript", "C#"],
     technologies: {
-        mobileApp: ["Flutter", "NativeScript"],
+        mobileApp: ["Flutter", "NativeScript", "React Native"],
         frontEnd: {
-            js: ["Angular"],
-            css: ["MDBootstrap", "bootstrap"]
+            js: ["Angular", "React"],
+            css: ["MDBootstrap", "bootstrap", "Material"]
         },
         backEnd: {
             js: ["node"],
@@ -24,7 +24,7 @@ const hibiZA = {
         },
         devOps: ["Docker🐳"],
         databases: ["mongoDB", "MySql", "sqlite"],
-        misc: ["Firebase", "selenium" ]
+        misc: ["Firebase", "selenium", "GCP" ]
     },
     architecture: ["Serverless Architecture", "Mobile App Architecture"],
     funFact: "There are two ways to write error-free programs; only the third one works"
