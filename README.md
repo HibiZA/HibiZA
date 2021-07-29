@@ -34,7 +34,7 @@ const hibiZA = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -75,9 +75,8 @@ Sunday       16 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               0 secs              ██████████████████░░░░░░░   72.52% 
-Groovy                   0 secs              ████░░░░░░░░░░░░░░░░░░░░░   19.36% 
-XML                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.12%
+Groovy                   0 secs              █████████████████░░░░░░░░   70.47% 
+XML                      0 secs              ███████░░░░░░░░░░░░░░░░░░   29.53%
 
 🔥 Editors: 
 VS Code                  0 secs              █████████████████████████   100.0%
@@ -107,5 +106,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/HibiZA/HibiZA/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/07/2021
+ Last Updated on 29/07/2021
 <!--END_SECTION:waka-->
