@@ -40,7 +40,7 @@ const hibiZA = {
 
 > 🏆 206 Contributions in the Year 2021
  > 
-> 📦 143.2 kB Used in GitHub's Storage 
+> 📦 143.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
