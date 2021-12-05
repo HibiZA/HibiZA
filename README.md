@@ -32,9 +32,11 @@ const hibiZA = {
 ```
 📝[Resume](https://drive.google.com/file/d/1RjxKCcvUeoyYgnL_eCwQ9zay77Ayr0Xu/view?usp=sharing)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%204%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -75,21 +77,19 @@ Sunday       21 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 6 mins        ███████████████░░░░░░░░░░   63.39% 
-HTML                     39 mins             █████░░░░░░░░░░░░░░░░░░░░   19.88% 
-Git Config               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
-SCSS                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.98% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
+TypeScript               3 hrs 50 mins       ████████████████████████░   98.2% 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🔥 Editors: 
-VS Code                  3 hrs 19 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 54 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-website_engine           2 hrs 34 mins       ███████████████████░░░░░░   77.17% 
-Wombat                   45 mins             █████░░░░░░░░░░░░░░░░░░░░   22.83%
+website_engine           3 hrs 54 mins       █████████████████████████   99.87% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 💻 Operating System: 
-Mac                      3 hrs 19 mins       █████████████████████████   100.0%
+Mac                      3 hrs 54 mins       █████████████████████████   100.0%
 
 ```
 
@@ -110,5 +110,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/HibiZA/HibiZA/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/11/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
