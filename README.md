@@ -32,13 +32,15 @@ const hibiZA = {
 ```
 📝[Resume](https://drive.google.com/file/d/1RjxKCcvUeoyYgnL_eCwQ9zay77Ayr0Xu/view?usp=sharing)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-789%20hrs%205%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 4 Contributions in the Year 2022
+> 🏆 5 Contributions in the Year 2022
  > 
 > 📦 145.9 kB Used in GitHub's Storage 
  > 
@@ -46,7 +48,7 @@ const hibiZA = {
  > 
 > 📜 17 Public Repositories 
  > 
-> 🔑 16 Private Repositories  
+> 🔑 17 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -75,18 +77,23 @@ Sunday       12 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               17 hrs 58 mins      ████████████████████████░   96.18% 
-HTML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.81% 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+TypeScript               12 hrs 55 mins      █████████████████████░░░░   86.9% 
+JavaScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.92% 
+HTML                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27% 
+JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65% 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
 
 🔥 Editors: 
-VS Code                  18 hrs 41 mins      █████████████████████████   100.0%
+VS Code                  14 hrs 52 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-website_engine           18 hrs 41 mins      █████████████████████████   100.0%
+website_engine           12 hrs 5 mins       ████████████████████░░░░░   81.24% 
+Unknown Project          1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.25% 
+goodbarber               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.01% 
+test                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.5%
 
 💻 Operating System: 
-Mac                      18 hrs 41 mins      █████████████████████████   100.0%
+Mac                      14 hrs 52 mins      █████████████████████████   100.0%
 
 ```
 
@@ -107,5 +114,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/HibiZA/HibiZA/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/02/2022 16:28:33 UTC
+ Last Updated on 04/03/2022 20:17:57 UTC
 <!--END_SECTION:waka-->
