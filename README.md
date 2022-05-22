@@ -32,7 +32,7 @@ const DylanFuhri = {
 ```
 📝[Resume](https://drive.google.com/file/d/1RjxKCcvUeoyYgnL_eCwQ9zay77Ayr0Xu/view?usp=sharing)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-938%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,7 +42,7 @@ const DylanFuhri = {
 
 > 🏆 49 Contributions in the Year 2022
  > 
-> 📦 146.3 kB Used in GitHub's Storage 
+> 📦 146.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -113,5 +113,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/HibiZA/HibiZA/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/05/2022 08:29:31 UTC
+ Last Updated on 22/05/2022 16:30:20 UTC
 <!--END_SECTION:waka-->
