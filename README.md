@@ -32,7 +32,7 @@ const DylanFuhri = {
 ```
 📝[Resume](https://drive.google.com/file/d/1RjxKCcvUeoyYgnL_eCwQ9zay77Ayr0Xu/view?usp=sharing)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-940%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,16 +77,17 @@ Sunday       30 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 48 mins        █████████████████████░░░░   86.96% 
-HTML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+TypeScript               1 hr 48 mins        █████████████████████░░░░   86.8% 
+HTML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.88% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
 SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🔥 Editors: 
 VS Code                  2 hrs 5 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-website_engine           1 hr 46 mins        █████████████████████░░░░   85.11% 
-xgrc-software            18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.89%
+website_engine           1 hr 46 mins        █████████████████████░░░░   84.95% 
+xgrc-software            18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.05%
 
 💻 Operating System: 
 Mac                      2 hrs 5 mins        █████████████████████████   100.0%
@@ -110,5 +111,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/HibiZA/HibiZA/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/05/2022 08:29:48 UTC
+ Last Updated on 29/05/2022 16:31:43 UTC
 <!--END_SECTION:waka-->
