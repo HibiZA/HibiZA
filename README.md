@@ -32,7 +32,7 @@ const DylanFuhri = {
 ```
 📝[Resume](https://drive.google.com/file/d/1RjxKCcvUeoyYgnL_eCwQ9zay77Ayr0Xu/view?usp=sharing)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C071%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C071%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -114,5 +114,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/HibiZA/HibiZA/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/07/2022 16:29:41 UTC
+ Last Updated on 23/07/2022 20:16:29 UTC
 <!--END_SECTION:waka-->
