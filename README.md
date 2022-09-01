@@ -32,11 +32,11 @@ const DylanFuhri = {
 ```
 📝[Resume](https://drive.google.com/file/d/1RjxKCcvUeoyYgnL_eCwQ9zay77Ayr0Xu/view?usp=sharing)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C105%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C103%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,17 +77,19 @@ Sunday       34 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 8 mins         ████████████████████████░   98.79% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
+TypeScript               2 hrs 13 mins       ██████████████████████░░░   89.78% 
+HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.0%
+VS Code                  2 hrs 28 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-TORAS                    1 hr 9 mins         █████████████████████████   100.0%
+TORAS                    2 hrs 28 mins       █████████████████████████   99.91% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 💻 Operating System: 
-Mac                      1 hr 9 mins         █████████████████████████   100.0%
+Mac                      2 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
@@ -108,5 +110,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/HibiZA/HibiZA/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2022 20:22:49 UTC
+ Last Updated on 01/09/2022 16:32:06 UTC
 <!--END_SECTION:waka-->
