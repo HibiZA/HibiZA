@@ -32,11 +32,11 @@ const DylanFuhri = {
 ```
 📝[Resume](https://drive.google.com/file/d/1RjxKCcvUeoyYgnL_eCwQ9zay77Ayr0Xu/view?usp=sharing)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C109%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--10%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,20 +77,21 @@ Sunday       34 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 14 mins       ██████████████████░░░░░░░   74.29% 
-HTML                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   25.65% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+TypeScript               3 hrs 41 mins       ████████████████░░░░░░░░░   66.76% 
+HTML                     1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   20.44% 
+Groovy                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.96% 
+XML                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05%
 
 🔥 Editors: 
-VS Code                  4 hrs 22 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 31 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-TORAS                    4 hrs 21 mins       █████████████████████████   99.95% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+TORAS                    5 hrs 31 mins       █████████████████████████   99.96% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 💻 Operating System: 
-Mac                      4 hrs 22 mins       █████████████████████████   100.0%
+Mac                      5 hrs 31 mins       █████████████████████████   100.0%
 
 ```
 
@@ -111,5 +112,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/HibiZA/HibiZA/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/09/2022 08:32:31 UTC
+ Last Updated on 06/09/2022 20:22:44 UTC
 <!--END_SECTION:waka-->
