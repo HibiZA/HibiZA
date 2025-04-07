@@ -66,5 +66,3 @@ const DylanFuhri = {
 ## 📫 How to reach me:
 
 - LinkedIn: [Dylan Führi](https://www.linkedin.com/in/dylan-fuhri/)
-
-📝 [Resume](https://drive.google.com/file/d/1RjxKCcvUeoyYgnL_eCwQ9zay77Ayr0Xu/view?usp=sharing)
