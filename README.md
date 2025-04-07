@@ -3,9 +3,8 @@
 <p><em>Software Developer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Dylan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dylan-fuhri/)](https://www.linkedin.com/in/dylan-fuhri/)
+[![Linkedin: dylan-fuhri](https://img.shields.io/badge/-Dylan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dylan-fuhri/)](https://www.linkedin.com/in/dylan-fuhri/)
 ![GitHub followers](https://img.shields.io/github/followers/HibiZA?style=social)
-![Readme](https://github.com/HibiZA/HibiZA/workflows/Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me...  
 
@@ -30,82 +29,32 @@ const DylanFuhri = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-📝[Resume](https://drive.google.com/file/d/1RjxKCcvUeoyYgnL_eCwQ9zay77Ayr0Xu/view?usp=sharing)
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C110%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+## 📊 GitHub Stats
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--10%20Million%20lines%20of%20code-blue)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HibiZA&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HibiZA&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 
-**🐱 My GitHub Data** 
+## 🛠️ Technologies & Tools
 
-> 🏆 63 Contributions in the Year 2022
- > 
-> 📦 147.2 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 19 Private Repositories  
- > 
-**I'm a Night 🦉** 
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 
-```text
-🌞 Morning    40 commits     █████░░░░░░░░░░░░░░░░░░░░   19.8% 
-🌆 Daytime    52 commits     ██████░░░░░░░░░░░░░░░░░░░   25.74% 
-🌃 Evening    100 commits    ████████████░░░░░░░░░░░░░   49.5% 
-🌙 Night      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.95%
+## 📫 How to reach me:
 
-```
-📅 **I'm Most Productive on Friday** 
+- LinkedIn: [Dylan Führi](https://www.linkedin.com/in/dylan-fuhri/)
+- Email: [your-email@example.com]
 
-```text
-Monday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
-Tuesday      24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.88% 
-Wednesday    17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
-Thursday     37 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
-Friday       40 commits     █████░░░░░░░░░░░░░░░░░░░░   19.8% 
-Saturday     23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
-Sunday       32 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.84%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               14 repos            █████████░░░░░░░░░░░░░░░░   36.84% 
-Dart                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05% 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/HibiZA/HibiZA/master/charts/bar_graph.png) 
-
-
- Last Updated on 07/11/2022 08:34:06 UTC
-<!--END_SECTION:waka-->
+📝 [Resume](https://drive.google.com/file/d/1RjxKCcvUeoyYgnL_eCwQ9zay77Ayr0Xu/view?usp=sharing)
